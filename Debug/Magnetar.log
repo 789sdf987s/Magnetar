@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+C:\Users\Aidan\source\repos\Magnetar\Magnetar\dllmain.cpp(268,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aidan\source\repos\Magnetar\Magnetar\dllmain.cpp(268,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aidan\source\repos\Magnetar\Magnetar\dllmain.cpp(268,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aidan\source\repos\Magnetar\Magnetar\dllmain.cpp(268,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Magnetar.vcxproj -> C:\Users\Aidan\source\repos\Magnetar\Debug\Magnetar.dll
